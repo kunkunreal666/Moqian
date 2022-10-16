@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 [![Total lines](https://tokei.rs/b1/github/HongZhaoHua/jstarcraft-example?category=lines)](https://tokei.rs/b1/github/HongZhaoHua/jstarcraft-example?category=lines)
 
+这是大佬的项目，非本人原创，目前用于个人学习，谢谢，我的其他项目：https://github.com/kunkunreal666/KFC-crazyThursday-reply
+（以下内容为原作者的介绍）
 希望路过的同学,顺手给JStarCraft框架点个Star,算是对作者的一种鼓励吧!
 
 ## 目录
