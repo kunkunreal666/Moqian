@@ -6,12 +6,13 @@
 [![Total lines](https://tokei.rs/b1/github/HongZhaoHua/jstarcraft-example?category=lines)](https://tokei.rs/b1/github/HongZhaoHua/jstarcraft-example?category=lines)
 
 
-*这是大佬的项目，非本人原创，本人水平有限，fork原项目仅用于个人学习，谢谢，我的其他项目：文案生成器1.0https://github.com/kunkunreal666/KFC-crazyThursday-reply
-*目前墨椠项目的框架将基于该项目进行开发
-*moqian可以做什么？
-#智能推荐
+## 这是大佬的项目，非本人原创，本人水平有限，fork原项目仅用于个人学习，谢谢。
+## 我的其他项目：文案生成器1.0https://github.com/kunkunreal666/KFC-crazyThursday-reply
+## 目前墨椠项目的框架将基于该项目进行开发
+## moqian可以做什么？
+## 智能推荐
 基于用户提交的需求，进行智能推荐
-#智能写作
+## 智能写作
 基于用户提交的文章需求，生成合适的文案
 
 
