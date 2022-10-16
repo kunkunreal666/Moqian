@@ -1,4 +1,4 @@
-# MoQian——基于JStarCraft Example的智能推荐系统
+# MoQian——基于JStarCraft Example的智能推荐系统（还没做出来）
 
 ****
 
@@ -8,7 +8,7 @@
 
 ## 这是大佬的项目，非本人原创，本人水平有限，fork原项目仅用于个人学习，谢谢。
 ## 我的其他项目：文案生成器1.0https://github.com/kunkunreal666/KFC-crazyThursday-reply
-## 目前墨椠项目的框架将基于该项目进行开发
+## 墨椠项目的框架将基于该项目进行开发
 ## moqian可以做什么？
 ## 智能推荐
 基于用户提交的需求，进行智能推荐
